@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **Large Language Models**
 
-- 🌱 I’m currently learning **Machine learning and LLMs**
+- 🌱 I’m currently learning **NextJs and Deep learning**
 
 - 👯 I’m looking to collaborate on **Web Development or Android development projects**
 
 - 👨‍💻 All of my projects are available at [https://personal-portfolio-phi-sandy.vercel.app/](https://personal-portfolio-phi-sandy.vercel.app/)
 
-- 💬 Ask me about **react,flutter,ML**
+- 💬 Ask me about **React,flutter,Data structures and Algorithms**
 
 - 📫 How to reach me **ilhamsyed1310@gmail.com**
 
