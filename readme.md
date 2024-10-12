@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Large Language Models**
 
-- 🌱 I’m currently learning **NextJs and Deep learning**
+- 🌱 I’m currently learning **SpringBoot and GoLang**
 
 - 👯 I’m looking to collaborate on **Web Development or Android development projects**
 
